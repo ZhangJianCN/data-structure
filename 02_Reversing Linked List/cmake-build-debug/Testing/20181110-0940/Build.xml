@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20181110-0940-Continuous"
+	Name="zhuxiliuyun-TM1701"
+	Generator="ctest-3.12.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="7.3.0"
+	OSName="Linux"
+	Hostname="zhuxiliuyun-TM1701"
+	OSRelease="4.15.0-38-generic"
+	OSVersion="#41-Ubuntu SMP Wed Oct 10 10:59:38 UTC 2018"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7860"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3058.18"
+	>
+	<Build>
+		<StartDateTime>Nov 10 17:40 +08</StartDateTime>
+		<StartBuildTime>1541842851</StartBuildTime>
+		<BuildCommand>/home/zhuxiliuyun/software/CLion-2018.2.5/clion-2018.2.5/bin/cmake/linux/bin/cmake --build . --config "Release" -- -i</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Nov 10 17:40 +08</EndDateTime>
+		<EndBuildTime>1541842851</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

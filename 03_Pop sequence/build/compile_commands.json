@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build",
+  "command": "/usr/bin/g++-7    -g   -std=c++11 -o CMakeFiles/pop_sequence.dir/main.cpp.o -c \"/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/main.cpp\"",
+  "file": "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/main.cpp"
+}
+]

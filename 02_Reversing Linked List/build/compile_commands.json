@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zhuxiliuyun/code/cplusplus/Nov10/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/reverse_linklist.dir/reverse_linklist.cpp.o -c /home/zhuxiliuyun/code/cplusplus/Nov10/reverse_linklist.cpp",
+  "file": "/home/zhuxiliuyun/code/cplusplus/Nov10/reverse_linklist.cpp"
+}
+]

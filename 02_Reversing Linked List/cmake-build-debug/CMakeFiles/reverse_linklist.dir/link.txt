@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/reverse_linklist.dir/reverse_linklist.cpp.o  -o reverse_linklist 

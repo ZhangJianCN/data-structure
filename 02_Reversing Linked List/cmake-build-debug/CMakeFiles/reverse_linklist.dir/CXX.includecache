@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuxiliuyun/code/cplusplus/Nov10/reverse_linklist.cpp
+iostream
+-
+unordered_map
+-
+string
+-
+vector
+-
+cmath
+-
+

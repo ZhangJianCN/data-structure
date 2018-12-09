@@ -1,0 +1,9 @@
+Upload files:
+0	Build.xml
+1	Configure.xml
+2	Test.xml
+Using drop method: http
+	Upload file: /home/zhuxiliuyun/code/cplusplus/Nov10/cmake-build-debug/Testing/20181110-0940/Build.xml to zhuxiliuyun-TM1701___Linux-c++___20181110-0940-Continuous___XML___Build.xml
+   Error when uploading file: /home/zhuxiliuyun/code/cplusplus/Nov10/cmake-build-debug/Testing/20181110-0940/Build.xml
+   Error message was: Bad URL
+   Problems when submitting via HTTP

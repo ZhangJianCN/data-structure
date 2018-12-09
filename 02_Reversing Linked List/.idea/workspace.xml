@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="reverse_linklist" targetName="ContinuousStart" />
+      <config projectName="reverse_linklist" targetName="NightlyConfigure" />
+      <config projectName="reverse_linklist" targetName="ContinuousBuild" />
+      <config projectName="reverse_linklist" targetName="NightlySubmit" />
+      <config projectName="reverse_linklist" targetName="ExperimentalUpdate" />
+      <config projectName="reverse_linklist" targetName="ExperimentalStart" />
+      <config projectName="reverse_linklist" targetName="NightlyUpdate" />
+      <config projectName="reverse_linklist" targetName="ContinuousUpdate" />
+      <config projectName="reverse_linklist" targetName="NightlyMemCheck" />
+      <config projectName="reverse_linklist" targetName="ExperimentalCoverage" />
+      <config projectName="reverse_linklist" targetName="ContinuousCoverage" />
+      <config projectName="reverse_linklist" targetName="ExperimentalConfigure" />
+      <config projectName="reverse_linklist" targetName="Experimental" />
+      <config projectName="reverse_linklist" targetName="Nightly" />
+      <config projectName="reverse_linklist" targetName="reverse_linklist" />
+      <config projectName="reverse_linklist" targetName="NightlyTest" />
+      <config projectName="reverse_linklist" targetName="ExperimentalSubmit" />
+      <config projectName="reverse_linklist" targetName="ExperimentalTest" />
+      <config projectName="reverse_linklist" targetName="NightlyStart" />
+      <config projectName="reverse_linklist" targetName="ContinuousMemCheck" />
+      <config projectName="reverse_linklist" targetName="NightlyBuild" />
+      <config projectName="reverse_linklist" targetName="ExperimentalBuild" />
+      <config projectName="reverse_linklist" targetName="Continuous" />
+      <config projectName="reverse_linklist" targetName="ContinuousSubmit" />
+      <config projectName="reverse_linklist" targetName="ContinuousTest" />
+      <config projectName="reverse_linklist" targetName="NightlyCoverage" />
+      <config projectName="reverse_linklist" targetName="ExperimentalMemCheck" />
+      <config projectName="reverse_linklist" targetName="ContinuousConfigure" />
+      <config projectName="reverse_linklist" targetName="NightlyMemoryCheck" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bda03eb8-5667-4e92-ab2a-33a609994da5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1317531859">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Unnamed (disassembly)" value="17" />
+          <entry key="cpp" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Disassembly" value="17" />
+          <entry key="ObjectiveC" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="GDB" value="73" />
+          <entry key="cpp" value="352" />
+          <entry key="txt" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="16" />
+          <entry key="GDBCommands" value="73" />
+          <entry key="ObjectiveC" value="352" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reverse_linklist.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v3.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+              <folding>
+                <element signature="e#46#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>linklist_len</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/v2.cpp" />
+        <option value="$PROJECT_DIR$/v3.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/reverse_linklist.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reverse_linklist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nov10" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ContinuousUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="ExperimentalUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyMemoryCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlySubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="NightlyUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="reverse_linklist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="reverse_linklist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_linklist" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverse_linklist" TARGET_NAME="reverse_linklist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverse_linklist" RUN_TARGET_NAME="reverse_linklist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Continuous" />
+      <item itemvalue="Application.ContinuousBuild" />
+      <item itemvalue="Application.ContinuousConfigure" />
+      <item itemvalue="Application.ContinuousCoverage" />
+      <item itemvalue="Application.ContinuousMemCheck" />
+      <item itemvalue="Application.ContinuousStart" />
+      <item itemvalue="Application.ContinuousSubmit" />
+      <item itemvalue="Application.ContinuousTest" />
+      <item itemvalue="Application.ContinuousUpdate" />
+      <item itemvalue="Application.Experimental" />
+      <item itemvalue="Application.ExperimentalBuild" />
+      <item itemvalue="Application.ExperimentalConfigure" />
+      <item itemvalue="Application.ExperimentalCoverage" />
+      <item itemvalue="Application.ExperimentalMemCheck" />
+      <item itemvalue="Application.ExperimentalStart" />
+      <item itemvalue="Application.ExperimentalSubmit" />
+      <item itemvalue="Application.ExperimentalTest" />
+      <item itemvalue="Application.ExperimentalUpdate" />
+      <item itemvalue="Application.Nightly" />
+      <item itemvalue="Application.NightlyBuild" />
+      <item itemvalue="Application.NightlyConfigure" />
+      <item itemvalue="Application.NightlyCoverage" />
+      <item itemvalue="Application.NightlyMemCheck" />
+      <item itemvalue="Application.NightlyMemoryCheck" />
+      <item itemvalue="Application.NightlyStart" />
+      <item itemvalue="Application.NightlySubmit" />
+      <item itemvalue="Application.NightlyTest" />
+      <item itemvalue="Application.NightlyUpdate" />
+      <item itemvalue="Application.reverse_linklist" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda03eb8-5667-4e92-ab2a-33a609994da5" name="Default Changelist" comment="" />
+      <created>1541842556730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541842556730</updated>
+      <workItem from="1541842558422" duration="1231000" />
+      <workItem from="1541846136552" duration="1391000" />
+      <workItem from="1541860510168" duration="1012000" />
+      <workItem from="1541900533078" duration="9396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13030000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.41647598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295325" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.49542335" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/reverse_linklist.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_linklist.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
