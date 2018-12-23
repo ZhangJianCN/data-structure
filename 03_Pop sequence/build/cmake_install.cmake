@@ -1,4 +1,4 @@
-# Install script for directory: /home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence
+# Install script for directory: /home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

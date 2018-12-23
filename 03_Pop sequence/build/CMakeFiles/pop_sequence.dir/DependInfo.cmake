@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/main.cpp" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build/CMakeFiles/pop_sequence.dir/main.cpp.o"
+  "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/main.cpp" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build/CMakeFiles/pop_sequence.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

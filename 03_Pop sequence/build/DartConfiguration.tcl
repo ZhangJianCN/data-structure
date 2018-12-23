@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence
-BuildDirectory: /home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build
+SourceDirectory: /home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence
+BuildDirectory: /home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -36,7 +36,7 @@ ScpCommand: /usr/bin/scp
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence"
+ConfigureCommand: "/usr/bin/cmake" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 

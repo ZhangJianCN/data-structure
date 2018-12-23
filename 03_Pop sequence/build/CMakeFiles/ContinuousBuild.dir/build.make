@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence"
+CMAKE_SOURCE_DIR = "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build"
+CMAKE_BINARY_DIR = "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build"
 
 # Utility rule file for ContinuousBuild.
 
@@ -71,6 +71,6 @@ CMakeFiles/ContinuousBuild.dir/clean:
 .PHONY : CMakeFiles/ContinuousBuild.dir/clean
 
 CMakeFiles/ContinuousBuild.dir/depend:
-	cd "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build" "/home/zhuxiliuyun/code/cplusplus/data structure/03_pop sequence/build/CMakeFiles/ContinuousBuild.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build" "/home/zhuxiliuyun/code/cplusplus/data structure/03_Pop sequence/build/CMakeFiles/ContinuousBuild.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ContinuousBuild.dir/depend
 
